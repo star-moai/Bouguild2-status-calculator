@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>冒険者ギルド2 ステータス計算機</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+
+        <h1>冒険者ギルド2 ステータス計算機</h1>
+
+        <div class="card">
+
+            <h2>キャラクター設定</h2>
+
+            <label for="race">種族</label>
+            <select id="race">
+                <option value="human">人間</option>
+                <option value="elf">エルフ</option>
+                <option value="dwarf">ドワーフ</option>
+                <option value="darkelf">ダークエルフ</option>
+                <option value="undead">アンデッドマン</option>
+                <option value="golem">魔造生物</option>
+            </select>
+
+            <label for="job">職業</label>
+            <select id="job">
+                <option value="warrior">戦士</option>
+                <option value="swordsman">剣士</option>
+                <option value="thief">盗賊</option>
+                <option value="priest">僧侶</option>
+                <option value="mage">魔法使い</option>
+                <option value="hunter">狩人</option>
+                <option value="ninja">忍者</option>
+            </select>
+
+            <label for="level">レベル</label>
+            <input type="number" id="level" min="1" max="99" value="99">
+
+            <button onclick="calculateStatus()">
+                計算
+            </button>
+
+        </div>
+
+        <div class="card">
+
+            <h2>結果</h2>
+
+            <p>HP: <span id="hp">0</span></p>
+            <p>攻撃力: <span id="atk">0</span></p>
+            <p>命中精度: <span id="hit">0</span></p>
+            <p>防御力: <span id="def">0</span></p>
+            <p>回避能力: <span id="eva">0</span></p>
+
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
