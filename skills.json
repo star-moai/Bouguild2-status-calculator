@@ -1,0 +1,252 @@
+[
+  {
+    "id": 10001,
+    "name": "[+50%]攻撃威力の増減(%)",
+    "skillFamily": "attackPowerModifier",
+    "category": "attack",
+    "effectType": "percentModifier",
+    "target": "attackPower",
+    "value": 50,
+    "stack": true
+  },
+  {
+    "id": 10002,
+    "name": "[+40%]攻撃威力の増減(%)",
+    "skillFamily": "attackPowerModifier",
+    "category": "attack",
+    "effectType": "percentModifier",
+    "target": "attackPower",
+    "value": 40,
+    "stack": true
+  },
+  {
+    "id": 10003,
+    "name": "[+30%]攻撃威力の増減(%)",
+    "skillFamily": "attackPowerModifier",
+    "category": "attack",
+    "effectType": "percentModifier",
+    "target": "attackPower",
+    "value": 30,
+    "stack": true
+  },
+  {
+    "id": 10004,
+    "name": "[+25%]攻撃威力の増減(%)",
+    "skillFamily": "attackPowerModifier",
+    "category": "attack",
+    "effectType": "percentModifier",
+    "target": "attackPower",
+    "value": 25,
+    "stack": true
+  },
+  {
+    "id": 10005,
+    "name": "[+20%]攻撃威力の増減(%)",
+    "skillFamily": "attackPowerModifier",
+    "category": "attack",
+    "effectType": "percentModifier",
+    "target": "attackPower",
+    "value": 20,
+    "stack": true
+  },
+  {
+    "id": 10006,
+    "name": "[+19%]攻撃威力の増減(%)",
+    "skillFamily": "attackPowerModifier",
+    "category": "attack",
+    "effectType": "percentModifier",
+    "target": "attackPower",
+    "value": 19,
+    "stack": true
+  },
+  {
+    "id": 10007,
+    "name": "[+18%]攻撃威力の増減(%)",
+    "skillFamily": "attackPowerModifier",
+    "category": "attack",
+    "effectType": "percentModifier",
+    "target": "attackPower",
+    "value": 18,
+    "stack": true
+  },
+  {
+    "id": 10008,
+    "name": "[+17%]攻撃威力の増減(%)",
+    "skillFamily": "attackPowerModifier",
+    "category": "attack",
+    "effectType": "percentModifier",
+    "target": "attackPower",
+    "value": 17,
+    "stack": true
+  },
+  {
+    "id": 10009,
+    "name": "[+15%]攻撃威力の増減(%)",
+    "skillFamily": "attackPowerModifier",
+    "category": "attack",
+    "effectType": "percentModifier",
+    "target": "attackPower",
+    "value": 15,
+    "stack": true
+  },
+  {
+    "id": 10010,
+    "name": "[+14%]攻撃威力の増減(%)",
+    "skillFamily": "attackPowerModifier",
+    "category": "attack",
+    "effectType": "percentModifier",
+    "target": "attackPower",
+    "value": 14,
+    "stack": true
+  },
+  {
+    "id": 10011,
+    "name": "[+13%]攻撃威力の増減(%)",
+    "skillFamily": "attackPowerModifier",
+    "category": "attack",
+    "effectType": "percentModifier",
+    "target": "attackPower",
+    "value": 13,
+    "stack": true
+  },
+  {
+    "id": 10012,
+    "name": "[+12%]攻撃威力の増減(%)",
+    "skillFamily": "attackPowerModifier",
+    "category": "attack",
+    "effectType": "percentModifier",
+    "target": "attackPower",
+    "value": 12,
+    "stack": true
+  },
+  {
+    "id": 10013,
+    "name": "[+11%]攻撃威力の増減(%)",
+    "skillFamily": "attackPowerModifier",
+    "category": "attack",
+    "effectType": "percentModifier",
+    "target": "attackPower",
+    "value": 11,
+    "stack": true
+  },
+  {
+    "id": 10014,
+    "name": "[+10%]攻撃威力の増減(%)",
+    "skillFamily": "attackPowerModifier",
+    "category": "attack",
+    "effectType": "percentModifier",
+    "target": "attackPower",
+    "value": 10,
+    "stack": true
+  },
+  {
+    "id": 10015,
+    "name": "[+9%]攻撃威力の増減(%)",
+    "skillFamily": "attackPowerModifier",
+    "category": "attack",
+    "effectType": "percentModifier",
+    "target": "attackPower",
+    "value": 9,
+    "stack": true
+  },
+  {
+    "id": 10016,
+    "name": "[+8%]攻撃威力の増減(%)",
+    "skillFamily": "attackPowerModifier",
+    "category": "attack",
+    "effectType": "percentModifier",
+    "target": "attackPower",
+    "value": 8,
+    "stack": true
+  },
+  {
+    "id": 10017,
+    "name": "[+7%]攻撃威力の増減(%)",
+    "skillFamily": "attackPowerModifier",
+    "category": "attack",
+    "effectType": "percentModifier",
+    "target": "attackPower",
+    "value": 7,
+    "stack": true
+  },
+  {
+    "id": 10018,
+    "name": "[+6%]攻撃威力の増減(%)",
+    "skillFamily": "attackPowerModifier",
+    "category": "attack",
+    "effectType": "percentModifier",
+    "target": "attackPower",
+    "value": 6,
+    "stack": true
+  },
+  {
+    "id": 10019,
+    "name": "[+5%]攻撃威力の増減(%)",
+    "skillFamily": "attackPowerModifier",
+    "category": "attack",
+    "effectType": "percentModifier",
+    "target": "attackPower",
+    "value": 5,
+    "stack": true
+  },
+  {
+    "id": 10020,
+    "name": "[+4%]攻撃威力の増減(%)",
+    "skillFamily": "attackPowerModifier",
+    "category": "attack",
+    "effectType": "percentModifier",
+    "target": "attackPower",
+    "value": 4,
+    "stack": true
+  },
+  {
+    "id": 10021,
+    "name": "[+3%]攻撃威力の増減(%)",
+    "skillFamily": "attackPowerModifier",
+    "category": "attack",
+    "effectType": "percentModifier",
+    "target": "attackPower",
+    "value": 3,
+    "stack": true
+  },
+  {
+    "id": 10022,
+    "name": "[+2%]攻撃威力の増減(%)",
+    "skillFamily": "attackPowerModifier",
+    "category": "attack",
+    "effectType": "percentModifier",
+    "target": "attackPower",
+    "value": 2,
+    "stack": true
+  },
+  {
+    "id": 10023,
+    "name": "[+1%]攻撃威力の増減(%)",
+    "skillFamily": "attackPowerModifier",
+    "category": "attack",
+    "effectType": "percentModifier",
+    "target": "attackPower",
+    "value": 1,
+    "stack": true
+  },
+  {
+    "id": 10024,
+    "name": "[-20%]攻撃威力の増減(%)",
+    "skillFamily": "attackPowerModifier",
+    "category": "attack",
+    "effectType": "percentModifier",
+    "target": "attackPower",
+    "value": -20,
+    "stack": true
+  },
+  {
+    "id": 10025,
+    "name": "[-30%]攻撃威力の増減(%)",
+    "skillFamily": "attackPowerModifier",
+    "category": "attack",
+    "effectType": "percentModifier",
+    "target": "attackPower",
+    "value": -30,
+    "stack": true
+  }
+]
